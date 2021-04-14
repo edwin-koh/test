@@ -9,7 +9,7 @@ class PairSequence:
 {
   // C++03
   typedef void (PairSequence::*BoolLike)();
-  void non_comparable333();
+  void non_comparable333-2();
 public:
   // C++11 (explicit aliases)
   using iterator_category = std::input_iterator_tag;
